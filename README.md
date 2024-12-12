@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**dhanushgubba/dhanushgubba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **GUBBA VENKATA NAGA DHANUSH**, an aspiring software developer with a passion for full-stack web development. 
 
-Here are some ideas to get you started:
+**🔭 I'm currently working on:**
+* Building a personal project to create a **Gender Responsive Mechansim through Combat Violence (Domestic Violence Awareness)** using **JSP**, **SpringBoot JPA**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌱 I'm currently learning:**
+
+* **React**
+* **Java Full Stack Development (Spring Boot)**
+* **DSA (Data Structures and Algorithms)**
+* **Python Full Stack Development**
+
+**💬 Ask me about:**
+
+* **React**, **SpringBoot**, **JSP**, **JPA**, **Python Web Development**
+
+**👯 I'm looking to collaborate on:**
+
+* Open-source projects related to **[specific areas, e.g., web applications for education, environmental sustainability]**
+* Hackathons and coding challenges.
+
+**📫 How to reach me:**
+
+* **dhanushgubba.ap@gmail.com**
+
+**⚡ Fun fact:**
+
+* I enjoy developing new web applications using different technologies in my free time. 
+
+**I'm always eager to learn and grow, and I'm excited to contribute to the developer community!**
