@@ -27,6 +27,6 @@ I'm **GUBBA VENKATA NAGA DHANUSH**, an aspiring software developer with a passio
 
 **⚡ Fun fact:**
 
-* I enjoy developing new web applications using different technologies in my free time. 
+* The First Computer Bug is an actual Bug
 
 **I'm always eager to learn and grow, and I'm excited to contribute to the developer community!**
