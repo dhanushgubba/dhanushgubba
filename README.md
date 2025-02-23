@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanushgubba" alt="dhanushgubba" /></a> </p>
 
-- 🔭 I’m currently working on [Building a personal project to create a Gender Responsive Mechansim through Combat Violence (Domestic Violence Awareness) using JSP, SpringBoot JPA.](https://safeheavendomesticsdpproject.up.railway.app/)
+- 🔭 I’m currently working on [Building a personal project to create a Gender Responsive Mechansim through Combat Violence (Domestic Violence Awareness) using JSP, SpringBoot JPA.]
 
 - 🌱 I’m currently learning **React, Java Full Stack(Spring Boot), DSA, Python Full Stack**
 
