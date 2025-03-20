@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Building a personal project to create a Gender Responsive Mechansim through Combat Violence (Domestic Violence Awareness) using JSP, SpringBoot JPA.]
 
-- 🌱 I’m currently learning **React, Java Full Stack(Spring Boot), DSA, Python Full Stack**
+- 🌱 I’m currently learning **React, Java Full Stack(Spring Boot), DSA, MERN Stack**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications**
 
